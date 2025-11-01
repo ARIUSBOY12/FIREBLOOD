@@ -1,0 +1,3 @@
+--FIREBLOOD HUB -- GAME: [UPDATE] Conquest: Napoleonic Wars [Pre-Alpha]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ARIUSBOY12/FIREBLOOD/refs/heads/main/FIREBLOOD%20HUB%3A%20%5BUPDATE%5D%20Conquest%3A%20Napoleonic%20Wars%20%5BPre-Alpha%5D"))()
