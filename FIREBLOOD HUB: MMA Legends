@@ -1,0 +1,4 @@
+-- FIREBLOOD HUB: MMA Legends 🥊
+-- Presented to you by Arius_G
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ARIUSBOY12/FIREBLOOD/refs/heads/main/FIREBLOOD%20HUB%20SOURCE%3A%20MMA%20Legends"))()
