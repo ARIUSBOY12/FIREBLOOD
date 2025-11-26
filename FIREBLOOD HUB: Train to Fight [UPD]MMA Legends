@@ -1,0 +1,5 @@
+--FIREBLOOD HUB: Train to Fight [UPD]
+--Presented to you by Arius_G
+--Last Updated 27/11/2025
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ARIUSBOY12/FIREBLOOD/refs/heads/main/FIREBLOOD%20HUB%20SOURCE%3A%20Train%20to%20Fight%20%5BUPD%5DMMA%20Legends"))()
