@@ -1,6 +1,6 @@
 --FIREBLOOD HUB: Train to Fight [UPD]
 --Presented to you by Arius_G
---Last Updated 27/11/2025
+--Last Updated 28/11/2025
 
 game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Loading...", Text = "The code may take a moment to load, please be patient", Duration = 6})
 
